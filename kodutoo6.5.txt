@@ -1,0 +1,15 @@
+1. graafide värvi proleem
+sai alguse kui kaarditegjiad tahtsid raha säästa ja leida kuidas saab minimaalsete
+värvidega, kõrvutiolevaid maakondasid värvida. graafidel on sama probleem kus kaks ühendatud
+tippu oleks eri värvidega.
+
+saab kasutada ajakava koostamisel. kus iga töö on üks sõlm ja ühendused on
+sõlmede vahel mida ei saa samal ajal teha kas, selle tõttu et jagavad mingit
+piiratud resurssi. 
+
+2. resursiide jaotumine
+graafide värvimist saab kasutada resursside ajotumiseks. nt iga tipp esindab
+ülesannet ja värvimine näitab millised ülesanded saavad samal ajal toimuda.
+
+kui graafi tupud esindavad konflikte(nt ajalisi või resursi) , siis graafi
+värvimisega saab optimaalsed jaotada ajakava või resursid.

@@ -1,0 +1,6 @@
+P vs Np probleem
+probleem seisneb kas iga lahendatava ülesande tulemust saab sama kiiresti ka 
+kontrollida. see on tähtis nt krüptograafia jaoks sest paljud krüptograafia
+algoritmid põhinevad raskete arvutusalgoritmide keerukusel. kui P = NP siis
+muutuksid need algortimid haavatavaks. Kui  P ≠ NP siis see tähendab et kõik
+probleemid ei ole lahendatavad polünoomajaga.

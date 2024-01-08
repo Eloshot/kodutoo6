@@ -1,0 +1,12 @@
+1 kirjeldus
+määratakse lähtetipp mille kaal on 0 ja kasutatakse relaxation meetodid milleka
+saadakse tuntud lühim tee vahetatakse parematega ära kuni leitakse parim. töötab
+sarnaselt djikstrale ja lõpp vastus on sama,aga vahepealsed vastused on erinevad.
+Bellman-Fordi saab kasutada ka negatiivsete kaalude korral.
+
+2. neagtiivne tsükkel
+Bellman-Fordi algoritm suudab tuvastada negatiivseid tsükleid,
+kui kui pärast n-1 tsüklit tipu kaugus veel väheneb, siis graafis on negatiivne tsükkel. 
+
+on tähtis nt marsuutimiseplaneerimisel või fintantsrakendustes kus negatiivsed tsüklid
+võivad põhjustada lõpmata väikest väärtust.

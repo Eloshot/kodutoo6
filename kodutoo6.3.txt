@@ -1,0 +1,16 @@
+1 kirjeldus
+
+Djikstra algortim lejab lühima tee kaalutud graafis kus iga serva kaal on mitte negatiivne
+alguses valitakse lähteptipp mille kaugus on null ja hakatakse vaatama kõrval olevate tippude kaal.
+tehakse niikaua kuni jõutakse lõpp tipuni.
+
+2.
+
+efektiivne
+kui graaf on võike
+kui graafis on vähe servu
+
+ebaefektiivne
+kui graaf on suur.
+on negatiivsed servad
+dünaamiliste graafide korral
